@@ -21,6 +21,12 @@ This repository contains the RavenHawk Services Showcase plugin package, update 
 - Editable colors, grid gap, and card radius controls
 - GitHub manifest-based update metadata
 
+## Screenshots
+
+### Service Card Grid Preview
+
+![RavenHawk Services Showcase frontend preview](screenshots/service-card-grid-frontend-preview.png)
+
 ## Blocks
 
 ```text
@@ -56,7 +62,8 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ releases/
 │  └─ ravenhawk-service-card-grid.zip
 ├─ screenshots/
-│  └─ README.md
+│  ├─ README.md
+│  └─ service-card-grid-frontend-preview.png
 └─ updates/
    └─ ravenhawk-service-card-grid.json
 ```
