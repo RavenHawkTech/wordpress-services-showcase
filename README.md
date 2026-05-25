@@ -74,7 +74,7 @@ The package contains the full WordPress plugin folder, including the plugin PHP 
 
 ## Support RavenHawkTech
 
-Support RavenHawkTech: https://www.buymeacoffee.com/wbakke7496c
+<a href="https://www.buymeacoffee.com/wbakke7496c" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## RavenHawkTech
 
