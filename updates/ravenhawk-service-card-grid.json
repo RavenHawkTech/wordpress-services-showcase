@@ -1,0 +1,21 @@
+{
+  "name": "RavenHawk Services Showcase",
+  "slug": "ravenhawk-service-card-grid",
+  "version": "2.0.3",
+  "build": "minimal-admin-styles",
+  "release_title": "RavenHawk Services Showcase v2.0.3",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-services-showcase/releases/download/ravenhawk-service-card-grid-v2.0.3/ravenhawk-service-card-grid.zip",
+  "homepage": "https://github.com/RavenHawkTech/wordpress-services-showcase",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-26",
+  "author": "RavenHawkTech",
+  "author_profile": "https://ravenhawktech.com",
+  "sha256": "408126f9ce0a576f00ddeb5ea77eaef2e193320eb45118f664669c56abe40f9a",
+  "sections": {
+    "description": "Neon RavenHawkTech service showcase blocks for WordPress with editable title and style settings. Visit https://ravenhawktech.com for RavenHawkTech.",
+    "installation": "Upload the plugin ZIP in WordPress and activate it. Open RavenHawkTech → Service Card Grid to configure title and style settings.",
+    "changelog": "<h4>2.0.3</h4><ul><li>Preserved original grid behavior.</li><li>Added RavenHawkTech admin grouping.</li><li>Added editable title and style controls.</li><li>Added tabbed admin settings layout.</li></ul>"
+  }
+}
